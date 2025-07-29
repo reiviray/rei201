@@ -1,0 +1,33 @@
+p{
+    font-weight: bold;
+}
+
+ul{
+    font-style: italic;
+}
+
+ol{
+    list-style-position: inside;
+    font-size: 30px;
+}
+
+#top{
+    text-decoration: underline;
+    font-size: 150px;
+}
+
+.important{
+    font-style: italic;
+    color: #EAD94C;
+}
+
+body{
+    background-color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-size: 90px;
+    color: green;
+}
